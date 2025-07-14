@@ -1,6 +1,5 @@
-<h1 align="center">🌀 easy-vitepress-blog 🏖️</h1>
+<h1 align="center">国雷的博客</h1>
 
-基于 VitePress 快速搭建个人博客，自动化路由处理并预置了更加丰富的页面。
 
 ## ✨ 特性
 
@@ -12,4 +11,3 @@
 
 ## 📋 开始
 
-[点击阅读使用指南](https://example.zbwer.work/)
